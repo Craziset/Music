@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>singer</key>
+		<string>VISUDY</string>
+		<key>song</key>
+		<string>WATER (VISUDY X ZHI16)-VISUDY</string>
+		<key>url</key>
+		<string>WATER (VISUDY X ZHI16)-VISUDY.mp3</string>
+		<key>image</key>
+		<string>7.jpg</string>
+		<key>total</key>
+		<string>04:32</string>
+	</dict>
+	<dict>
+		<key>singer</key>
+		<string>VISUDY</string>
+		<key>song</key>
+		<string>Wake up (feat. Jeanie)-VISUDY</string>
+		<key>url</key>
+		<string>Wake up (feat. Jeanie)-VISUDY.mp3</string>
+		<key>image</key>
+		<string>6.jpg</string>
+		<key>total</key>
+		<string>04:13</string>
+	</dict>
+	<dict>
+		<key>singer</key>
+		<string>VISUDY</string>
+		<key>song</key>
+		<string>Cities Around You</string>
+		<key>url</key>
+		<string>Cities Around You-VISUDY.mp3</string>
+		<key>image</key>
+		<string>5.jpg</string>
+		<key>total</key>
+		<string>04:25</string>
+	</dict>
+	<dict>
+		<key>singer</key>
+		<string>阿克江LilAkin</string>
+		<key>song</key>
+		<string>GIVE U MY TAPE-阿克江LilAkin</string>
+		<key>url</key>
+		<string>GIVE U MY TAPE-阿克江LilAkin.mp3</string>
+		<key>image</key>
+		<string>4.jpg</string>
+		<key>total</key>
+		<string>03:36</string>
+	</dict>
+	<dict>
+		<key>singer</key>
+		<string>VISUDY</string>
+		<key>song</key>
+		<string>BANG BANG FROG-VISUDY</string>
+		<key>url</key>
+		<string>BANG BANG FROG-VISUDY.mp3</string>
+		<key>image</key>
+		<string>1.jpg</string>
+		<key>total</key>
+		<string>03:15</string>
+	</dict>
+	<dict>
+		<key>singer</key>
+		<string>VISUDY</string>
+		<key>song</key>
+		<string>释放</string>
+		<key>url</key>
+		<string>释放-VISUDY.mp3</string>
+		<key>image</key>
+		<string>3.jpg</string>
+		<key>total</key>
+		<string>04:21</string>
+	</dict>
+	<dict>
+		<key>singer</key>
+		<string>VISUDY</string>
+		<key>song</key>
+		<string>你是哪一种 (Visudy Remix)-VISUDY</string>
+		<key>url</key>
+		<string>你是哪一种 (Visudy Remix)-VISUDY.mp3</string>
+		<key>image</key>
+		<string>2.jpg</string>
+		<key>total</key>
+		<string>04:57</string>
+	</dict>
+</array>
+</plist>
